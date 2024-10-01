@@ -21,7 +21,7 @@ public class Main {
 		}
 		//write an if statement that prints out "Because he couldn’t see that well." if the input was greater than 1
 		if (a>1){
-			System.out.println("Because he couldn't see that well");
+			System.out.println("Because he couldnt see that well");
 		}
 		//write an if statement that prints out "When does a joke become a dad joke?"  if the input was equal to 8
 		if (a==8){
