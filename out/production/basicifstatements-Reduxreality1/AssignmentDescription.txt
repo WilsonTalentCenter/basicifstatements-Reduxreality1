@@ -1,0 +1,1 @@
+Assignment Description see Main.java for instructions.   If using an Intelij, create a new project as normal in this repository then copy the Main.java into the src folder.
